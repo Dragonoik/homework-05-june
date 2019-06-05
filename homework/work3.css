@@ -1,0 +1,80 @@
+.col1{
+	background-color: silver;
+	height: auto;
+	width: 100%;
+	padding: 50px 50px 50px 50px;
+}
+
+.col2{
+	background-color: white;
+	height: auto;
+}
+
+.col3{
+	background-color: silver;
+	height: auto;
+	width: 100%;
+	padding: 50px;
+}
+
+.col3-md{
+	background-color: silver;
+	width: 100%;
+	height: auto; 
+}
+
+.p-width{
+	width: 85%;
+}
+
+.img-ball{
+	width: 50%;
+	margin: 0 0 0 27%;
+}
+
+.text-aline-center{
+	text-align: center;
+}
+
+.img-dumbbell{
+	width: 80px;
+}
+
+.div-inline-block{
+	display: inline-block;
+	margin-left: 10%;
+}
+
+.img-dumbbell-right{
+	width: 40%;
+	margin-left: 30%;
+}
+
+.float-left{
+	float: left;
+}
+
+.clear-both{
+	clear: both;
+}
+
+.img-shadow{
+	box-shadow: 10px 10px 10px;
+	margin: 0 0 10px 0;
+	width: 100%;
+}
+
+.col-header{
+	height: auto;
+	padding: 10px;
+}
+
+header div{
+	background-color: grey;
+	text-align: center;
+}
+
+footer div{
+	background-color: grey;
+	text-align: center;
+}
